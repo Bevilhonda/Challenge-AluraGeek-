@@ -25,7 +25,7 @@
 
 <p>E para esta jornada tivemos uma equipe de peso ministrando as aulas, que foram eles :  </p>
 
-<br> <img src="img/equipe 3 fase.png" alt="equipe3fase"> <br>
+<br> <img src="img/equipe Alura.png" alt="equipe3fase"> <br>
 
 <p>Com essa terceira etapa concluida foi possível compreender 👣 passo a passo 👣 como são utilizadas algumas  🛠️ ferramentas 🛠️ de criação no Javascript para a implementação de um CRUD em nossa loja de Games.</p>
 
