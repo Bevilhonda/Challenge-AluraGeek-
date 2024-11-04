@@ -38,6 +38,12 @@
 <h2 align="center">Praticando Front End : Challenge AluraGeek</h2>
 
 <p>Ao final do curso de Front End foi disposto um desafio chamado de Challenge, e criar um Challenge AluraGeek.O objetivo é criar uma loja de Games .</p>
+<p>Após desenvolver todo o HTML e CSS de acordo com o modelo do FIGMA e seguindo as etapas do TRELLO , chegou a hora de MOCKAR uma API. 
+</p>
+<p>O que é MOCKAR API REST? 
+Resposta : temos de simular de alguma forma os dados enviados pelo backend, ou seja, dizemos que estamos trabalhando com mocks ou “mockando” o backend. Mock nada mais é que o nome dado para um conteúdo inventado e utilizado apenas como um marcador de posição. </p>
+<p> Existem várias formas de se fazer isso. Uma delas, é pelo <strong> json-server.</strong> </p>
+<p>Resumidamente, o json-server vai simular uma API REST, com todos os endpoints de um recurso: GET, POST, PUT e DELETE. Assim, o nosso frontend consome essa API simulada, possibilitando a criação de toda a camada HTTP da aplicação. </p>
 
 <h3 align="center">🔺Tecnologias usadas 🎯</h3>
 
