@@ -67,11 +67,11 @@
 </p>
 
 <h3 align="center">🔺Como fazer download deste projeto <strong>👣 passo a passo 👣 </strong> </h3><br>
-<p>Em meu repositorio Challenge AluraGeek clique no botão verde escrito
+<p> 🛑 Em meu repositorio Challenge AluraGeek clique no botão verde escrito
  <strong> CODE </strong>
  </p>
  <br> <img src="img/tutorial/botaoVerde.png" alt="botao verde escrito code"> <br>
- <p> Ao abrir a caixa de opções clique em  
+ <p>🛑 Ao abrir a caixa de opções clique em  
  <strong> DOWNLOAD ZIP </strong>
  </p>
  <br> <img src="img/tutorial/nomeZip.png" alt="imagem opção de download zip"> <br>
