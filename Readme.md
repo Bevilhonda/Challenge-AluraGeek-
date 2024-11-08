@@ -66,11 +66,15 @@
 
 </p>
 
-<h3 align="center">🔺Link do Portifólio</h3><br>
+<h3 align="center">🔺Como fazer download deste projeto <strong>👣 passo a passo 👣 </strong> </h3><br>
+<p>Em meu repositorio Challenge AluraGeek clique no botão verde escrito
+ <strong> CODE </strong>
+ </p>
+ <br> <img src="img/tutorial/botaoVerde.png" alt="equipe3fase"> <br>
 
 <h1 align="center"> 
 
-✅  https://portifolio-challenge-alura-2024.vercel.app/<br> 
+✅ <br> 
 
 </h1>
 
