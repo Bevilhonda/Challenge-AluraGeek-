@@ -1,0 +1,64 @@
+{
+  "Produtos": [
+    {
+      "id": 1,
+      "titulo": "Stormtrooper",
+      "valor": "$ 60,00",
+      "imagem": "img/stormtrooper.png"
+    },
+    {
+      "titulo": "Gameboy",
+      "valor": "$ 60,00",
+      "imagem": "img/gameboy.jpg",
+      "id": 5
+    },
+    {
+      "titulo": "Goku",
+      "valor": "$ 90,00",
+      "imagem": "img/funkogoku.png",
+      "id": 6
+    },
+    {
+      "titulo": "SuperBuu",
+      "valor": "$ 250,00",
+      "imagem": "img/MajinSuperBuu.png",
+      "id": 10
+    },
+    {
+      "titulo": "Vegeta",
+      "valor": "$ 90,00",
+      "imagem": "img/funkoVegeta.png",
+      "id": 11
+    },
+    {
+      "titulo": "Atari",
+      "valor": "$ 600,00",
+      "imagem": "img/atari.png",
+      "id": 12
+    },
+    {
+      "titulo": "Nintendo",
+      "valor": "$ 900,00",
+      "imagem": "img/superNintendo.png",
+      "id": 13
+    },
+    {
+      "titulo": "Master System",
+      "valor": "$ 900,00",
+      "imagem": "img/masterSystem.png",
+      "id": 14
+    },
+    {
+      "titulo": "Xbox",
+      "valor": "$ 900,00",
+      "imagem": "img/Xbox360.jpg",
+      "id": 15
+    },
+    {
+      "titulo": "Venon",
+      "valor": "$ 90,00",
+      "imagem": "img/Venon.png",
+      "id": 16
+    }
+  ]
+}
