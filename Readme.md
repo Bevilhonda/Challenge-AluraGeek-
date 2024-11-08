@@ -65,6 +65,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 </p>
+<br> <br>
 
 <h3 align="center">🔺Como fazer download deste projeto <strong>👣 passo a passo 👣 </strong> </h3><br>
 <p> 🛑 Em meu repositorio Challenge AluraGeek clique no botão verde escrito
