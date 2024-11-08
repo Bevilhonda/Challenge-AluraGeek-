@@ -1,17 +1,87 @@
 <!DOCTYPE html>
 <html lang="pt-Br">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+  <title>AluraGeek</title>
+  <link rel="icon" href="./img/icons8-controle-50.png">
 </head>
+
 <body>
 
-  <header></header>
-  <main></main>
-  <footer>
-    <p>&copy; Marcelo Bevilacqua de Andrade</p>
+  <header class="cabecalho">
+    <div class="logoCabecalho">
+      <img src="img/3 corações.svg" alt="imagem corações e frase alura geek">
+      <img src="img/AluraGeek.png" alt="imagem animada texto aluraGeek">
+
+    </div>
+  </header>
+
+
+  <main class="conteudo">
+
+    <section class="boxProdutos">
+
+      <div class="tituloProdutos">Meus produtos:</div>
+      <section class="listaDeProdutos" data-id data-lista>
+
+      </section>
+
+    </section>
+
+    <section class="boxAdicionarProdutos">
+
+      <div class="tituloAdicionarProdutos">
+        <div>Adicionar</div>
+        <div>Produto:</div>
+
+        <div class="campoInput">
+          <form class="formulario" data-formulario>
+            <div>
+              <input type="text" id="nome" name="nome" placeholder="nome..." required data-titulo>
+            </div>
+
+            <div>
+              <input type="text" id="valor" name="valor" placeholder="valor..." required data-valor>
+            </div>
+
+            <div>
+              <input class="file-placeholder" type="search" id="imagem" name="valor" placeholder="imagem..." required data-imagem>
+            </div>
+
+            <div class="campoBotoes">
+              <button class="botaoGuardar" type="submit" aria-label="Guardar dados">Guardar</button>
+              <button class="botaoLimpar" type="reset" aria-label="Limpar dados">Limpar</button>
+            </div>
+            
+          </form>
+        </div>
+
+
+      </div>
+
+    </section>
+
+  </main>
+
+
+  <footer class="rodape">
+    <div class="imagensRodape">
+      <img src="img/3 corações.svg" alt="imagem corações e frase alura geek">
+      <img src="img/AluraGeek.png" alt="imagem animada texto aluraGeek">
+    </div>
+
+    <p> Desenvolvido por Copyright : &copy; Marcelo Bevilacqua de Andrade</p>
+    <p>Alura Latan 202X</p>
   </footer>
-  
+
 </body>
+<script src="./js/criaProduto.js" type="module"></script>
+<script src="./js/mostrarProduto.js" type="module"></script>
+
 </html>
