@@ -5,29 +5,50 @@
 
 <p align="center"> 📜  Projeto Challenge AluraGeek </a> 📜 </P>
 
-<p> 👋 Sejam bem-vindos ao meu projeto , você vai conhecer mais sobre o:</P> <p> <strong>APRENDENDO NA PRÁTICA ATRAVÉS DO CURSO INICIANTE EM PROGRAMAÇÃO T7-ONE,DISPONIBILIZADO PELA PLATAFORMA ALURA EM PARCERIA COM A ORACLE .</strong></P>
+<p> 👋 Sejam bem-vindos ao meu projeto , você vai conhecer mais sobre o:</P> 
+<p> <strong>APRENDENDO NA PRÁTICA ATRAVÉS DO CURSO INICIANTE EM PROGRAMAÇÃO 
+T7-ONE,DISPONIBILIZADO PELA PLATAFORMA ALURA EM PARCERIA COM A ORACLE .</strong></P>
 
-<br>Desafio este que tive a honra de co-criar com a plataforma de cursos online <strong>
+<p>Através da inscrição para a seleção de candidatos no site 
+ <a href = "https://www.oracle.com/br/education/oracle-next-education/"></a> ,
+  fui selecionado e presenteado com uma bolsa para este curso oferecido entre uma 
+  parceria da Oracle Next Educadion e Alura, O ONE é um programa de educação e 
+  empregabilidade com objetivo social de capacitar pessoas em tecnologia e conectá-las
+   com o mercado de trabalho por meio de empresas parceiras.</p>
+   <br> <img src="img/Oracle.png" alt="imagem ONE oracle"> <br>
+
 
 <a href="https://cursos.alura.com.br"></a>
 
 </strong> 💛 https://cursos.alura.com.br e https://www.oracle.com/br/education/oracle-next-education/ 🧡 e disponibilizado de forma gratuita para a comunidade.<br>
 
-   <p> 💎 O objetivo principal é colocar em prática algumas das principais ferramentas para a construção de paginas web: <strong> HTML, CSS, JAVASCRIPT</strong> através de aulas dinamicas e intuitivas com exemplos práticos e exercicios , e criar um CRUD para que nossa loja de Games funcione conforme desafio do projeto.</p>
+   <p> 💎 O objetivo principal é colocar em prática algumas das principais ferramentas para 
+   a construção de paginas web:
+    <strong> HTML, CSS, JAVASCRIPT</strong> 
+    através de aulas dinamicas e intuitivas com exemplos práticos e exercicios ,
+   e criar um CRUD para que nossa loja de Games funcione conforme desafio do projeto.</p> <br>
 
-<h3 align="center">🛑 Não sendo exigidos nenhum Pré-Requisitos para aprender essas tecnologias.</h3>
+   <p align="center">O que é CRUD ? </p><br>
 
-<p>Através da inscrição para a seleção de candidatos no site  <a href = "https://www.oracle.com/br/education/oracle-next-education/"></a> , fui selecionado e presenteado com uma bolsa para este curso oferecido entre uma parceria da Oracle Next Educadion e Alura, O ONE é um programa de educação e empregabilidade com objetivo social de capacitar pessoas em tecnologia e conectá-las com o mercado de trabalho por meio de empresas parceiras.</p>
+   <p><br> <img src="img/crud.png" alt="imagem de o que significa CRUD"> <br>
+   <br> <img src="img/significado crud.png" alt="imagem de o que significa CRUD"> <br> </p>
 
-<br> <img src="img/Oracle.png" alt="imagem ONE oracle"> <br>
 
-<p>Reservando pelo menos 4 horas por dia foi possível concluir a primeira etapa que foi dividida entre os cursos de 📚  HTML  📚 CSS 📚 JS ,  e assim aprender  <strong> Lógica de programação</strong>.Após essa etapa cheguei na <strong>Terceira fase </strong> chamada <strong>Praticando Front End : Desafio Challenge AluraGeek </strong>, em que o desafio é criar uma loja virtual de Games conforme orientações passadas nas aulas. </p>
+<p>Reservando pelo menos 4 horas por dia foi possível concluir a primeira etapa 
+que foi dividida entre os cursos de 📚  HTML  📚 CSS 📚 JS ,  e assim aprender
+  <strong> Lógica de programação</strong>.Após essa etapa cheguei na 
+  <strong>Terceira fase </strong> chamada <strong>
+  Praticando Front End : Desafio Challenge AluraGeek </strong>, 
+  em que o desafio é criar uma loja virtual de Games conforme orientações passadas nas aulas. </p>
 
 <p>E para esta jornada tivemos uma equipe de peso ministrando as aulas, que foram eles :  </p>
 
 <br> <img src="img/equipe Alura.png" alt="equipe3fase"> <br>
 
-<p>Com essa terceira etapa concluida foi possível compreender 👣 passo a passo 👣 como são utilizadas algumas  🛠️ ferramentas 🛠️ de criação no Javascript para a implementação de um CRUD em nossa loja de Games.</p>
+<p>Com essa terceira etapa concluida foi possível compreender 👣 passo a passo 👣 
+como são utilizadas algumas  🛠️ ferramentas 🛠️ de criação no Javascript para a 
+implementação de um CRUD em nossa loja de Games.</p>
+
 
 <br> <br>
 
