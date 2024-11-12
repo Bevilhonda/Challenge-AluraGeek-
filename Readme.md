@@ -82,7 +82,7 @@ conterá os dados que você deseja mockar.</p>
 
 <p align="center"><strong> Veja o exemplo: </strong></p>
 <br>
-<p> <img src="img/tutorial/dbJson.png" alt="equipe3fase"></p>
+<p align="center"> <img src="img/tutorial/dbJson.png" alt="equipe3fase"></p>
 
 <h3 align="center">🔺Tecnologias usadas 🎯</h3>
 
