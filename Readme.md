@@ -63,7 +63,7 @@ implementação de um CRUD em nossa loja de Games.</p>
 <p>Após desenvolver todo o HTML e CSS de acordo com o modelo do FIGMA e seguindo as
  etapas do TRELLO , chegou a hora de MOCKAR uma API. </p>
 
-<p align="center"><h2> O que é MOCKAR API REST? </h2> </p>
+<p align="center"><h2> O que é MOCKAR API ? </h2> </p>
 
 <p>🔺Resposta : temos de simular de alguma forma os dados enviados pelo backend, ou seja,
  dizemos que estamos trabalhando com mocks ou “mockando” o backend. Mock nada mais é que 
