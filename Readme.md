@@ -30,7 +30,7 @@ T7-ONE,DISPONIBILIZADO PELA PLATAFORMA ALURA EM PARCERIA COM A ORACLE .</strong>
 
    <p align="center">O que é CRUD ? </p><br>
 
-   <p><br> <img src="img/crud.png" alt="imagem de o que significa CRUD"> <br>
+   <p align="center" ><br> <img src="img/crud.png" alt="imagem de o que significa CRUD"> <br>
    <br> <img src="img/significado crud.png" alt="imagem de o que significa CRUD"> <br> </p>
 
 
