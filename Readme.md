@@ -144,6 +144,9 @@ pode conferir a
   preencha os campos de nome , valor e imagem. De um nome ao produto , digite o valor do produto , e no 
   campo de imagem... coloque o caminho de onde está a imagem no projeto, veja o exemplo : </p>
   <br> <img src="img/tutorial/adicionar.png" alt="imagem exemplo adicionar produto"> <br>
+  <p>Feito isso ao clicar em <strong>GUARDAR</strong>,um novo card com o produto
+  <strong>Stormtrooper</strong>deverá aparecer ao final da lista de produtos.</p> 
+  <br> <img src="img/tutorial/novo card.png" alt="imagem produto adicionaro"> <br>
  
 
 <h1 align="center"> 

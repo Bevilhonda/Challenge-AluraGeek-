@@ -59,6 +59,12 @@
       "valor": "$ 90,00",
       "imagem": "img/Venon.png",
       "id": 16
+    },
+    {
+      "titulo": "Stormtrooper",
+      "valor": "$ 60,00",
+      "imagem": "img/stormtrooper.png",
+      "id": 17
     }
   ]
 }
