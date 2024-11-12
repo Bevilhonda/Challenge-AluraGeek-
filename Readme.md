@@ -65,6 +65,11 @@ implementação de um CRUD em nossa loja de Games.</p>
 
 <p align="center"><h2> O que é MOCKAR API ? </h2> </p>
 
+<p align="center"> <img src="img/tutorial/simular api.png" alt="exemplo simular api"></p> <br>
+<p align="center"> <img src="img/tutorial/simular api 1.png" alt="simular api "></p>
+
+
+
 <p>🔺Resposta : temos de simular de alguma forma os dados enviados pelo backend, ou seja,
  dizemos que estamos trabalhando com mocks ou “mockando” o backend. Mock nada mais é que 
  o nome dado para um conteúdo inventado e utilizado apenas como um marcador de posição. </p>
@@ -75,8 +80,10 @@ implementação de um CRUD em nossa loja de Games.</p>
 de um recurso: GET, POST, PUT e DELETE. Assim, o nosso frontend consome essa API simulada, 
 possibilitando a criação de toda a camada HTTP da aplicação. </p>
 
+
 <p align="center"> <strong>👣 passo a passo 👣 </strong></p> 
-<p>Criar um Arquivo de Dados</p>
+
+<p>Criar um Arquivo de Dados.</p>
 <p>Crie um arquivo <strong> db.json </strong> na raiz do seu projeto. Este arquivo 
 conterá os dados que você deseja mockar.</p>
 
