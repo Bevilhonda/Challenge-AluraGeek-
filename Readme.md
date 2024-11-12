@@ -92,10 +92,12 @@ conterá os dados que você deseja mockar.</p>
 <p align="center"> <img src="img/tutorial/dbJson.png" alt="exemplo imagem dbjson"></p>
 <p align="center"> <img src="img/tutorial/simular api 2.png" alt="simular api "></p>
 
-<p> O json-server é uma ótima ferramenta para estar no cinto de utilidades de todas as 
+<p>O json-server é uma ótima ferramenta para estar no cinto de utilidades de todas as 
 pessoas desenvolvedoras. Se você quiser desvendar todo o potencial desse pacote,
- pode conferir a documentação completa aqui:
- <a align="center" href = "https://github.com/typicode/json-server#getting-started"></a>
+pode conferir a documentação completa aqui:
+<a href="https://github.com/typicode/json-server#getting-started">Documentação completa</a>.
+</p>
+
   
 <h3 align="center">🔺Tecnologias usadas 🎯</h3>
 
