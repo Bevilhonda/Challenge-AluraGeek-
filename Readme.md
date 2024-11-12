@@ -145,7 +145,7 @@ pode conferir a
   campo de imagem... coloque o caminho de onde está a imagem no projeto, veja o exemplo : </p>
   <br> <img src="img/tutorial/adicionar.png" alt="imagem exemplo adicionar produto"> <br>
   <p>Feito isso ao clicar em <strong>GUARDAR</strong>,um novo card com o produto
-  <strong>Stormtrooper</strong>deverá aparecer ao final da lista de produtos.</p> 
+  <strong>Stormtrooper</strong> deverá aparecer ao final da lista de produtos.</p> 
   <br> <img src="img/tutorial/novo card.png" alt="imagem produto adicionaro"> <br>
  
 
