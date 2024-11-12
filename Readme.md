@@ -155,7 +155,7 @@ pode conferir a
  <h2 align="center"> <strong> Marcelo Bevilacqua de Andrade  </strong></h2>
  <h1 align="center"> 
 
-✅Conheça mais sobre <strong>Vercionamento GIT</strong> neste repositorio clicando 👉 <a href="https://github.com/Bevilhonda/Tutorial-Versionamento-GIT">aqui</a> <br> 
+✅Conheça mais sobre <strong>Vercionamento GIT</strong> clicando 👉 <a href="https://github.com/Bevilhonda/Tutorial-Versionamento-GIT">aqui</a> <br> 
 
 </h1>
 
