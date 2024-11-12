@@ -94,8 +94,8 @@ conterá os dados que você deseja mockar.</p>
 
 <p>O json-server é uma ótima ferramenta para estar no cinto de utilidades de todas as 
 pessoas desenvolvedoras. Se você quiser desvendar todo o potencial desse pacote,
-pode conferir a documentação completa aqui:
-<a href="https://github.com/typicode/json-server#getting-started">Documentação completa</a>.
+pode conferir a
+<a href="https://github.com/typicode/json-server#getting-started">documentação completa aqui</a>.
 </p>
 
   
