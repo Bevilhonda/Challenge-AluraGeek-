@@ -15,7 +15,7 @@ T7-ONE,DISPONIBILIZADO PELA PLATAFORMA ALURA EM PARCERIA COM A ORACLE .</strong>
   parceria da Oracle Next Educadion e Alura, O ONE é um programa de educação e 
   empregabilidade com objetivo social de capacitar pessoas em tecnologia e conectá-las
    com o mercado de trabalho por meio de empresas parceiras.</p>
-   <br> <img src="img/Oracle.png" alt="imagem ONE oracle"> <br>
+   <br align="center"> <img src="img/Oracle.png" alt="imagem ONE oracle"> <br>
 
 
 <a href="https://cursos.alura.com.br"></a>
@@ -43,7 +43,7 @@ que foi dividida entre os cursos de 📚  HTML  📚 CSS 📚 JS ,  e assim apre
 
 <p>E para esta jornada tivemos uma equipe de peso ministrando as aulas, que foram eles :  </p>
 
-<br> <img src="img/equipe Alura.png" alt="equipe3fase"> <br>
+<br align="center"> <img src="img/equipe Alura.png" alt="equipe3fase"> <br>
 
 <p>Com essa terceira etapa concluida foi possível compreender 👣 passo a passo 👣 
 como são utilizadas algumas  🛠️ ferramentas 🛠️ de criação no Javascript para a 
