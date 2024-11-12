@@ -63,14 +63,14 @@ implementação de um CRUD em nossa loja de Games.</p>
 <p>Após desenvolver todo o HTML e CSS de acordo com o modelo do FIGMA e seguindo as
  etapas do TRELLO , chegou a hora de MOCKAR uma API. </p>
 
-<p align="center"><h2> O que é MOCKAR API ? </h2> </p>
+<p><h2 align="center"> O que é MOCKAR API ? </h2> </p>
 
 <p align="center"> <img src="img/tutorial/simular api.png" alt="exemplo simular api"></p> <br>
 <p align="center"> <img src="img/tutorial/simular api 1.png" alt="simular api "></p>
 
 
 
-<p>🔺Resposta : temos de simular de alguma forma os dados enviados pelo backend, ou seja,
+<p>🔺Temos de simular de alguma forma os dados enviados pelo backend, ou seja,
  dizemos que estamos trabalhando com mocks ou “mockando” o backend. Mock nada mais é que 
  o nome dado para um conteúdo inventado e utilizado apenas como um marcador de posição. </p>
 
@@ -90,6 +90,13 @@ conterá os dados que você deseja mockar.</p>
 <p align="center"><strong> Veja o exemplo: </strong></p>
 <br>
 <p align="center"> <img src="img/tutorial/dbJson.png" alt="exemplo imagem dbjson"></p>
+<p align="center"> <img src="img/tutorial/simular api 2.png" alt="simular api "></p>
+
+<p> O json-server é uma ótima ferramenta para estar no cinto de utilidades de todas as 
+pessoas desenvolvedoras. Se você quiser desvendar todo o potencial desse pacote,
+ pode conferir a documentação completa aqui:
+ <p align="center" ><a href = "https://github.com/typicode/json-server#getting-started"></a></p>
+  </p>
 
 <h3 align="center">🔺Tecnologias usadas 🎯</h3>
 
