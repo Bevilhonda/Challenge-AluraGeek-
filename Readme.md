@@ -126,7 +126,21 @@ pode conferir a
  <strong> DOWNLOAD ZIP </strong>
  </p>
  <br> <img src="img/tutorial/nomeZip.png" alt="imagem opção de download zip"> <br>
-
+ <p>🛑 Lembre-se que você precisa ter instalado o json-server ,
+  lembrando que o json-server é um pacote NPM que pode ser instalado globalmente 
+  em ambientes que possuam o Node.JS instalado. </p>
+ 
+ <p>Extraia o arquivo e abra ele no VSCODE ,clique em TERMINAL e NOVO TERMINAL. </p>
+ <p>Execute o comando : <strong>json-server db.json</strong></p>
+ <p>se apareceu essa mensagem :</p>
+ <br> <img src="img/tutorial/exito json server.png" alt="imagem opção de download zip"> <br>
+ <p>É porque tudo ocorreu bem </p>
+ <p>Abra o arquivo HTML em uma nova aba , ou se você tem a extenção LIVE SERVE no VSCODE 
+ abra o arquivo HTML com o LIVE SERVER.</p>
+ <p>Feito isso irá abrir a pagina da loja Alura GEEK e você pode excluir um card ,
+  ou incluir um novo card de acordo com a imagem que estão na pasta IMG do projeto </p>
+  <br> <img src="img/tutorial/imagem pagina.png" alt="imagem opção de download zip"> <br>
+ 
 
 <h1 align="center"> 
 
