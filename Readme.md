@@ -151,7 +151,7 @@ pode conferir a
 
 <h1 align="center"> 
 
-✅ <br> 
+✅Conheça mais sobre <strong>Vercionamento GIT</strong> neste repositorio clicando 👉 <a href="https://github.com/Bevilhonda/Tutorial-Versionamento-GIT">aqui</a> <br> 
 
 </h1>
 
