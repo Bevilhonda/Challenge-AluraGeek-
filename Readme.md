@@ -133,13 +133,17 @@ pode conferir a
  <p>Extraia o arquivo e abra ele no VSCODE ,clique em TERMINAL e NOVO TERMINAL. </p>
  <p>Execute o comando : <strong>json-server db.json</strong></p>
  <p>se apareceu essa mensagem :</p>
- <br> <img src="img/tutorial/exito json server.png" alt="imagem opção de download zip"> <br>
+ <br> <img src="img/tutorial/exito json server.png" alt="imagem exito json "> <br>
  <p>É porque tudo ocorreu bem </p>
  <p>Abra o arquivo HTML em uma nova aba , ou se você tem a extenção LIVE SERVE no VSCODE 
  abra o arquivo HTML com o LIVE SERVER.</p>
  <p>Feito isso irá abrir a pagina da loja Alura GEEK e você pode excluir um card ,
   ou incluir um novo card de acordo com a imagem que estão na pasta IMG do projeto </p>
-  <br> <img src="img/tutorial/imagem pagina.png" alt="imagem opção de download zip"> <br>
+  <br> <img src="img/tutorial/imagem pagina.png" alt="imagem da pagina alurageek"> <br>
+  <p>Para incluir um novo card ,no campo <strong> ADICIONAR PRODUTO </strong>
+  preencha os campos de nome , valor e imagem. De um nome ao produto , digite o valor do produto , e no 
+  campo de imagem... coloque o caminho de onde está a imagem no projeto, veja o exemplo : </p>
+  <br> <img src="img/tutorial/adicionar.png" alt="imagem exemplo adicionar produto"> <br>
  
 
 <h1 align="center"> 
