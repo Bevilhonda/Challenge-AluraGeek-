@@ -81,7 +81,8 @@ possibilitando a criação de toda a camada HTTP da aplicação. </p>
 conterá os dados que você deseja mockar.</p>
 
 <p align="center"><strong> Veja o exemplo: </strong></p>
-<p><br> <img src="img/tutorial/dbJson.png" alt="equipe3fase"> <br></p>
+<br>
+<p> <img src="img/tutorial/dbJson.png" alt="equipe3fase"></p>
 
 <h3 align="center">🔺Tecnologias usadas 🎯</h3>
 
