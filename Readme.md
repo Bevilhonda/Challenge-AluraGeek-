@@ -148,20 +148,16 @@ pode conferir a
   <strong>Stormtrooper</strong> deverá aparecer ao final da lista de produtos.</p> 
   <br> <img src="img/tutorial/novo card.png" alt="imagem produto adicionaro"> <br>
  
-
-<h1 align="center"> 
-
-✅Conheça mais sobre <strong>Vercionamento GIT</strong> neste repositorio clicando 👉 <a href="https://github.com/Bevilhonda/Tutorial-Versionamento-GIT">aqui</a> <br> 
-
-</h1>
-
-
-
  <br> <br>
 
 <h2 align="center">💡 ‼️ ESTE REPOSITÓRIO FOI CRIADO PARA O PROJETO CHALLENGE AluraGeek E PARA FINS DE ESTUDO. ‼️
  </h2>
  <h2 align="center"> <strong> Marcelo Bevilacqua de Andrade  </strong></h2>
+ <h1 align="center"> 
+
+✅Conheça mais sobre <strong>Vercionamento GIT</strong> neste repositorio clicando 👉 <a href="https://github.com/Bevilhonda/Tutorial-Versionamento-GIT">aqui</a> <br> 
+
+</h1>
 
  <br> <br>
 
