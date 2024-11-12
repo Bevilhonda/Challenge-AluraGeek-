@@ -15,7 +15,7 @@ T7-ONE,DISPONIBILIZADO PELA PLATAFORMA ALURA EM PARCERIA COM A ORACLE .</strong>
   parceria da Oracle Next Educadion e Alura, O ONE é um programa de educação e 
   empregabilidade com objetivo social de capacitar pessoas em tecnologia e conectá-las
    com o mercado de trabalho por meio de empresas parceiras.</p>
-   <br align="center"> <img src="img/Oracle.png" alt="imagem ONE oracle"> <br>
+   <br> <img align="center" src="img/Oracle.png" alt="imagem ONE oracle"> <br>
 
 
 <a href="https://cursos.alura.com.br"></a>
