@@ -58,17 +58,30 @@ implementação de um CRUD em nossa loja de Games.</p>
 
 <h2 align="center">Praticando Front End : Challenge AluraGeek</h2>
 
-<p>Ao final do curso de Front End foi disposto um desafio chamado de Challenge, e criar um Challenge AluraGeek.O objetivo é criar uma loja de Games .</p>
-<p>Após desenvolver todo o HTML e CSS de acordo com o modelo do FIGMA e seguindo as etapas do TRELLO , chegou a hora de MOCKAR uma API. 
-</p>
-<p>O que é MOCKAR API REST? </p>
+<p>Ao final do curso de Front End foi disposto um desafio chamado de Challenge,
+ e criar um Challenge AluraGeek.O objetivo é criar uma loja de Games .</p>
+<p>Após desenvolver todo o HTML e CSS de acordo com o modelo do FIGMA e seguindo as
+ etapas do TRELLO , chegou a hora de MOCKAR uma API. </p>
 
-<p>🔺Resposta : temos de simular de alguma forma os dados enviados pelo backend, ou seja, dizemos que estamos trabalhando com mocks ou “mockando” o backend. Mock nada mais é que o nome dado para um conteúdo inventado e utilizado apenas como um marcador de posição. </p>
-<p> Existem várias formas de se fazer isso. Uma delas, é pelo <h1> <strong> json-server.</strong> </h1> </p>
-<p>Resumidamente, o json-server vai simular uma API REST, com todos os endpoints de um recurso: GET, POST, PUT e DELETE. Assim, o nosso frontend consome essa API simulada, possibilitando a criação de toda a camada HTTP da aplicação. </p>
-<p align="center"> <strong>👣 passo a passo 👣 </strong></p>
+<p align="center"><h2> O que é MOCKAR API REST? </h2> </p>
+
+<p>🔺Resposta : temos de simular de alguma forma os dados enviados pelo backend, ou seja,
+ dizemos que estamos trabalhando com mocks ou “mockando” o backend. Mock nada mais é que 
+ o nome dado para um conteúdo inventado e utilizado apenas como um marcador de posição. </p>
+
+<p> Existem várias formas de se fazer isso. Uma delas, é pelo 
+<h1> <strong> json-server.</strong> </h1> </p>
+<p>Resumidamente, o json-server vai simular uma API REST, com todos os endpoints 
+de um recurso: GET, POST, PUT e DELETE. Assim, o nosso frontend consome essa API simulada, 
+possibilitando a criação de toda a camada HTTP da aplicação. </p>
+
+<p align="center"> <strong>👣 passo a passo 👣 </strong></p> 
 <p>Criar um Arquivo de Dados</p>
-<p>Crie um arquivo <strong> db.json </strong> na raiz do seu projeto. Este arquivo conterá os dados que você deseja mockar.</p>
+<p>Crie um arquivo <strong> db.json </strong> na raiz do seu projeto. Este arquivo 
+conterá os dados que você deseja mockar.</p>
+
+<p align="center"><strong> Veja o exemplo: </strong></p>
+<br> <img src="img/tutorial/dbJson.png" alt="equipe3fase"> <br>
 
 <h3 align="center">🔺Tecnologias usadas 🎯</h3>
 
